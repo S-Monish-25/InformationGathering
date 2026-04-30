@@ -38,6 +38,7 @@ ping command is available on Windows as well as on Linux OS. Following is the ex
 ## output
 <img width="1211" height="463" alt="Screenshot 2026-01-31 01104222" src="https://github.com/user-attachments/assets/ab3603c3-7d08-40e5-aed9-e6f1ebb39ee5" />
 
+<img width="1260" height="2098" alt="image" src="https://github.com/user-attachments/assets/d6b462d3-639a-4f69-abb4-0bb48de6be53" />
 
 
 ## Finding Hosting Company
@@ -62,16 +63,21 @@ Host: example.com
 ## output
 <img width="965" height="295" alt="Screenshot 2026-01-31 013621" src="https://github.com/user-attachments/assets/47d535f0-8440-4c8b-b212-0250dd0c5e30" />
 
+<img width="1010" height="615" alt="image" src="https://github.com/user-attachments/assets/413eddc3-73e4-4261-85ba-377c7bc32d9e" />
+
 
 
 ## nmap:
 ## output
 <img width="975" height="248" alt="image" src="https://github.com/user-attachments/assets/d95bbaef-ed63-4f28-a1a8-776c09a98376" />
 
+<img width="920" height="633" alt="image" src="https://github.com/user-attachments/assets/611b445f-2bbe-4900-8713-50df691314f0" />
 
 ## Whatweb
 ### output
 <img width="1342" height="212" alt="image" src="https://github.com/user-attachments/assets/083829d6-9135-4afe-9f58-f0537099bfaa" />
+
+<img width="809" height="742" alt="image" src="https://github.com/user-attachments/assets/f232e32d-f849-489d-99a8-9e4a4062f714" />
 
 # Tracing the Location
 TCP Traceroute:
@@ -79,12 +85,15 @@ sudo traceroute -T letterboxd.com
 ## output
 <img width="1258" height="354" alt="image" src="https://github.com/user-attachments/assets/96bad051-d5f9-4cdd-81c8-1ba3faa10cb0" />
 
+<img width="985" height="806" alt="image" src="https://github.com/user-attachments/assets/4304b9c2-253c-42bf-92af-ae6a55ad3055" />
+
 
 ## UDP Traceroute:
 sudo traceroute -U letterboxd.com
 ## output
 <img width="1235" height="545" alt="image" src="https://github.com/user-attachments/assets/a2a2db9a-010d-43c0-a7d0-76e33baa6ab1" />
 
+<img width="929" height="814" alt="image" src="https://github.com/user-attachments/assets/52d9d1fb-abbf-4f2e-8546-7c6312e7b63b" />
 
 
 ## ICMP Traceroute:
@@ -92,6 +101,7 @@ sudo traceroute letterboxd.com
 ## output
 <img width="1265" height="271" alt="Screenshot 2026-01-31 014536" src="https://github.com/user-attachments/assets/8f7553c5-78fc-4fd7-915e-5274f1c2c6ae" />
 
+<img width="953" height="1600" alt="image" src="https://github.com/user-attachments/assets/ad3fb924-5687-4c91-bf5c-e22b805f51e1" />
 
 
 
